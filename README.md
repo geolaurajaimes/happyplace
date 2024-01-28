@@ -1,2 +1,5 @@
-geoJSON storage in Github - load from local disk to GitHub and load it in AGOL with URL
-geoJSON storage in AGOL servers - load from local disc to AGOL.
+# GeoJSON Storage in GitHub and AGOL
+## GitHub
+### Load from Local Disk to GitHub and Load it in AGOL with URL
+## AGOL Servers
+### Load from Local Disk to AGOL
